@@ -1,0 +1,11 @@
+composer create-project laravel/laravel prjt
+cd prjt
+code .
+
+git init
+git add .
+git commit -m""
+git config --global user.email""
+git config --global user.name""
+git commit -m""
+git push 
